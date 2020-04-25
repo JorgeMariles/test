@@ -6,7 +6,7 @@ from pathlib import Path
 import csv 
 import glob
 import os
-
+#comentario para mis lectores de gitub
 def cal_pop_fitness(items, population,d1,d2,number_bins,number_items,bin_size):
     # Calculating the fitness value of each solution in the current population.
     # using the falkenauer function and using k=2
